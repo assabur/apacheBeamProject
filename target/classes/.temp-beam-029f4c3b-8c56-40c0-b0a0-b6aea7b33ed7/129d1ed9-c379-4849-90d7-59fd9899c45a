@@ -1,0 +1,4 @@
+    private $password = "root";
+    private $host = "172.17.0.2";
+    private $db_name = "hospital_db";
+    private $username = "root";
